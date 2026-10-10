@@ -1,0 +1,12 @@
+{
+  "name": "mywebapp",
+  "version": "1.0.0",
+  "description": "My AWS CI/CD pipeline project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
